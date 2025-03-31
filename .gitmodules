@@ -1,0 +1,3 @@
+[submodule "VLA/otter"]
+	path = VLA/otter
+	url = https://github.com/vinayakkapoor/otter.git
